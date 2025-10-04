@@ -19,7 +19,7 @@ This project generates fake flight events, streams them through Kafka, processes
 ##  Screenshots
 
 ### Kafka Producer Running
-![Kafka Producer](screenshots/KafkaProducer.png)
+![Kafka Producer](screenshots/kafkaProducer.png)
 
 ### Jupyter Notebook - Inserting Records to PostgreSQL
 ![Jupyter Notebook](screenshots/jupyter.png)
